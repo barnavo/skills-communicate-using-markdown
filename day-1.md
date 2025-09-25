@@ -35,3 +35,5 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 
 ![Mona the Octocat](https://octodex.github.com/images/original.png)
 
+_This is **italic and bold** text_
+__This is also *italic*__
